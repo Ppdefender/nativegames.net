@@ -3,10 +3,10 @@
 
 // Array of random text options
 var textOptions = [
-  "Homework whats that",
+  "Gyatt? whats that",
   "Rip 3kh0!",
-  "Now with a PR00000000000xy! ",
-  "The site to cure Total boredness ",
+  "Now with 99% more air! ",
+  "The site to cure cancer ",
   "A LOT OF GAMES!",
   "shit",
   "What is Google Sites?",

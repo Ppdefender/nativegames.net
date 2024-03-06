@@ -12,7 +12,7 @@ var textOptions = [
   "What is Google Sites?",
   "No",
   "Yes",
-  "insert text here",
+  "insert dick here",
   "Unblocked!",
   "Welcome To The New New Native!",
   "Did you know we are open source? Fork US!",

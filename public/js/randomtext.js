@@ -35,7 +35,7 @@ var textOptions = [
   "we love minoa.cat",
   "better than interstellar",
   "NodeJS on top!",
-  "Aiden Has a foot fetish",
+  "William mace is stinky",
   "Or what!",
   "Geeeeeeeeeeeeeetar!!!!!!",
   "Powerade Sucks!",
